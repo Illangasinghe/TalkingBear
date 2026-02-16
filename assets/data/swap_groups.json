@@ -1,0 +1,157 @@
+{
+    "groups": [
+        {
+            "id": "animals",
+            "words": [
+                "FROG",
+                "JAGUAR",
+                "BEAR",
+                "DOG",
+                "CAT",
+                "DINOSAUR",
+                "GHOST",
+                "MOUSE"
+            ]
+        },
+        {
+            "id": "sounds",
+            "words": [
+                "RIBBIT",
+                "ROAR",
+                "GROWL",
+                "WOOF",
+                "MEOW",
+                "BOO"
+            ]
+        },
+        {
+            "id": "objects",
+            "words": [
+                "CLOCK",
+                "TREE",
+                "HOUSE",
+                "BED",
+                "HILL",
+                "SOFA",
+                "POOL"
+            ]
+        },
+        {
+            "id": "nouns_plural",
+            "words": [
+                "MONKEYS",
+                "GHOSTS",
+                "BEARS",
+                "DINOSAURS"
+            ]
+        },
+        {
+            "id": "locations",
+            "words": [
+                "BED",
+                "SOFA",
+                "POOL",
+                "HILL"
+            ]
+        },
+        {
+            "id": "emotions",
+            "words": [
+                "HAPPY",
+                "SAD",
+                "ANGRY",
+                "EXCITED",
+                "SCARED",
+                "TIRED",
+                "HUNGRY"
+            ]
+        },
+        {
+            "id": "reasons",
+            "words": [
+                "PLAYING",
+                "SLEEPING",
+                "EATING",
+                "HURT",
+                "RAINING",
+                "SUNNY"
+            ]
+        },
+        {
+            "id": "needs_objects",
+            "words": [
+                "APPLE",
+                "WATER",
+                "BALL",
+                "BLOCKS",
+                "BOOK",
+                "CRACKER",
+                "HUG",
+                "POTTY",
+                "OUTSIDE"
+            ]
+        },
+        {
+            "id": "alphabet",
+            "words": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E",
+                "F",
+                "G",
+                "H",
+                "I",
+                "J",
+                "K",
+                "L",
+                "M",
+                "N",
+                "O",
+                "P",
+                "Q",
+                "R",
+                "S",
+                "T",
+                "U",
+                "V",
+                "W",
+                "X",
+                "Y",
+                "Z"
+            ]
+        },
+        {
+            "id": "alphabet_objects",
+            "words": [
+                "APPLE",
+                "BEAR",
+                "CAT",
+                "DOG",
+                "ELEPHANT",
+                "FROG",
+                "GIRAFFE",
+                "HAT",
+                "ICE CREAM",
+                "JAGUAR",
+                "KITE",
+                "LION",
+                "MOUSE",
+                "NET",
+                "OCTOPUS",
+                "PIG",
+                "QUEEN",
+                "RABBIT",
+                "SUN",
+                "TIGER",
+                "UMBRELLA",
+                "VAN",
+                "WHALE",
+                "X-RAY",
+                "YO-YO",
+                "ZEBRA"
+            ]
+        }
+    ]
+}

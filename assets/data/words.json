@@ -1,0 +1,483 @@
+{
+    "words": [
+        {
+            "text": "FROG",
+            "audio": "frog.wav",
+            "emoji": "🐸"
+        },
+        {
+            "text": "JAGUAR",
+            "audio": "jaguar.wav",
+            "emoji": "🐆"
+        },
+        {
+            "text": "BEAR",
+            "audio": "bear.wav",
+            "emoji": "🐻"
+        },
+        {
+            "text": "DOG",
+            "audio": "dog.wav",
+            "emoji": "🐶"
+        },
+        {
+            "text": "CAT",
+            "audio": "cat.wav",
+            "emoji": "🐱"
+        },
+        {
+            "text": "DINOSAUR",
+            "audio": "dinosaur.wav",
+            "emoji": "🦕"
+        },
+        {
+            "text": "GHOST",
+            "audio": "ghost.wav",
+            "emoji": "👻"
+        },
+        {
+            "text": "MOUSE",
+            "audio": "mouse.wav",
+            "emoji": "🐭"
+        },
+        {
+            "text": "RIBBIT",
+            "audio": "ribbit.wav",
+            "emoji": "💬"
+        },
+        {
+            "text": "ROAR",
+            "audio": "roar.wav",
+            "emoji": "🦁"
+        },
+        {
+            "text": "GROWL",
+            "audio": "growl.wav",
+            "emoji": "🐻"
+        },
+        {
+            "text": "WOOF",
+            "audio": "woof.wav",
+            "emoji": "🐕"
+        },
+        {
+            "text": "MEOW",
+            "audio": "meow.wav",
+            "emoji": "🐈"
+        },
+        {
+            "text": "BOO",
+            "audio": "boo.wav",
+            "emoji": "👻"
+        },
+        {
+            "text": "CLOCK",
+            "audio": "clock.wav",
+            "emoji": "🕰️"
+        },
+        {
+            "text": "TREE",
+            "audio": "tree.wav",
+            "emoji": "🌳"
+        },
+        {
+            "text": "HOUSE",
+            "audio": "house.wav",
+            "emoji": "🏠"
+        },
+        {
+            "text": "BED",
+            "audio": "bed.wav",
+            "emoji": "🛏️"
+        },
+        {
+            "text": "HILL",
+            "audio": "hill.wav",
+            "emoji": "⛰️"
+        },
+        {
+            "text": "SOFA",
+            "audio": "sofa.wav",
+            "emoji": "🛋️"
+        },
+        {
+            "text": "POOL",
+            "audio": "pool.wav",
+            "emoji": "🏊"
+        },
+        {
+            "text": "MONKEYS",
+            "audio": "monkeys.wav",
+            "emoji": "🐒"
+        },
+        {
+            "text": "GHOSTS",
+            "audio": "ghosts.wav",
+            "emoji": "👻"
+        },
+        {
+            "text": "BEARS",
+            "audio": "bears.wav",
+            "emoji": "🐻"
+        },
+        {
+            "text": "DINOSAURS",
+            "audio": "dinosaurs.wav",
+            "emoji": "🦕"
+        },
+        {
+            "text": "I FEEL",
+            "audio": "i_feel.wav",
+            "emoji": "😊"
+        },
+        {
+            "text": "BECAUSE",
+            "audio": "because.wav",
+            "emoji": "➡️"
+        },
+        {
+            "text": "HAPPY",
+            "audio": "happy.wav",
+            "emoji": "😊"
+        },
+        {
+            "text": "SAD",
+            "audio": "sad.wav",
+            "emoji": "😢"
+        },
+        {
+            "text": "ANGRY",
+            "audio": "angry.wav",
+            "emoji": "😡"
+        },
+        {
+            "text": "EXCITED",
+            "audio": "excited.wav",
+            "emoji": "🤩"
+        },
+        {
+            "text": "SCARED",
+            "audio": "scared.wav",
+            "emoji": "😨"
+        },
+        {
+            "text": "TIRED",
+            "audio": "tired.wav",
+            "emoji": "😴"
+        },
+        {
+            "text": "HUNGRY",
+            "audio": "hungry.wav",
+            "emoji": "😋"
+        },
+        {
+            "text": "PLAYING",
+            "audio": "playing.wav",
+            "emoji": "🧸"
+        },
+        {
+            "text": "SLEEPING",
+            "audio": "sleeping.wav",
+            "emoji": "💤"
+        },
+        {
+            "text": "EATING",
+            "audio": "eating.wav",
+            "emoji": "🍎"
+        },
+        {
+            "text": "HURT",
+            "audio": "hurt.wav",
+            "emoji": "🩹"
+        },
+        {
+            "text": "RAINING",
+            "audio": "raining.wav",
+            "emoji": "🌧️"
+        },
+        {
+            "text": "SUNNY",
+            "audio": "sunny.wav",
+            "emoji": "☀️"
+        },
+        {
+            "text": "I WANT",
+            "audio": "i_want.wav",
+            "emoji": "🍎"
+        },
+        {
+            "text": "APPLE",
+            "audio": "apple.wav",
+            "emoji": "🍎"
+        },
+        {
+            "text": "WATER",
+            "audio": "water.wav",
+            "emoji": "💧"
+        },
+        {
+            "text": "BALL",
+            "audio": "ball.wav",
+            "emoji": "⚽"
+        },
+        {
+            "text": "BLOCKS",
+            "audio": "blocks.wav",
+            "emoji": "🧱"
+        },
+        {
+            "text": "BOOK",
+            "audio": "book.wav",
+            "emoji": "📚"
+        },
+        {
+            "text": "CRACKER",
+            "audio": "cracker.wav",
+            "emoji": "🥨"
+        },
+        {
+            "text": "HUG",
+            "audio": "hug.wav",
+            "emoji": "🫂"
+        },
+        {
+            "text": "POTTY",
+            "audio": "potty.wav",
+            "emoji": "🚽"
+        },
+        {
+            "text": "OUTSIDE",
+            "audio": "outside.wav",
+            "emoji": "🌳"
+        },
+        {
+            "text": "IS FOR",
+            "audio": "is_for.wav"
+        },
+        {
+            "text": "A",
+            "audio": "a.wav",
+            "emoji": "🅰️"
+        },
+        {
+            "text": "B",
+            "audio": "b.wav",
+            "emoji": "🅱️"
+        },
+        {
+            "text": "C",
+            "audio": "c.wav",
+            "emoji": "🇨"
+        },
+        {
+            "text": "D",
+            "audio": "d.wav",
+            "emoji": "🇩"
+        },
+        {
+            "text": "E",
+            "audio": "e.wav",
+            "emoji": "🇪"
+        },
+        {
+            "text": "F",
+            "audio": "f.wav",
+            "emoji": "🇫"
+        },
+        {
+            "text": "G",
+            "audio": "g.wav",
+            "emoji": "🇬"
+        },
+        {
+            "text": "ELEPHANT",
+            "audio": "elephant.wav",
+            "emoji": "🐘"
+        },
+        {
+            "text": "GIRAFFE",
+            "audio": "giraffe.wav",
+            "emoji": "🦒"
+        },
+        {
+            "text": "H",
+            "audio": "h.wav",
+            "emoji": "🇭"
+        },
+        {
+            "text": "I",
+            "audio": "i.wav",
+            "emoji": "🇮"
+        },
+        {
+            "text": "J",
+            "audio": "j.wav",
+            "emoji": "🇯"
+        },
+        {
+            "text": "K",
+            "audio": "k.wav",
+            "emoji": "🇰"
+        },
+        {
+            "text": "L",
+            "audio": "l.wav",
+            "emoji": "🇱"
+        },
+        {
+            "text": "M",
+            "audio": "m.wav",
+            "emoji": "🇲"
+        },
+        {
+            "text": "N",
+            "audio": "n.wav",
+            "emoji": "🇳"
+        },
+        {
+            "text": "O",
+            "audio": "o.wav",
+            "emoji": "🇴"
+        },
+        {
+            "text": "P",
+            "audio": "p.wav",
+            "emoji": "🇵"
+        },
+        {
+            "text": "Q",
+            "audio": "q.wav",
+            "emoji": "🇶"
+        },
+        {
+            "text": "R",
+            "audio": "r.wav",
+            "emoji": "🇷"
+        },
+        {
+            "text": "S",
+            "audio": "s.wav",
+            "emoji": "🇸"
+        },
+        {
+            "text": "T",
+            "audio": "t.wav",
+            "emoji": "🇹"
+        },
+        {
+            "text": "U",
+            "audio": "u.wav",
+            "emoji": "🇺"
+        },
+        {
+            "text": "V",
+            "audio": "v.wav",
+            "emoji": "🇻"
+        },
+        {
+            "text": "W",
+            "audio": "w.wav",
+            "emoji": "🇼"
+        },
+        {
+            "text": "X",
+            "audio": "x.wav",
+            "emoji": "🇽"
+        },
+        {
+            "text": "Y",
+            "audio": "y.wav",
+            "emoji": "🇾"
+        },
+        {
+            "text": "Z",
+            "audio": "z.wav",
+            "emoji": "🇿"
+        },
+        {
+            "text": "HAT",
+            "audio": "hat.wav",
+            "emoji": "👒"
+        },
+        {
+            "text": "ICE CREAM",
+            "audio": "ice_cream.wav",
+            "emoji": "🍦"
+        },
+        {
+            "text": "KITE",
+            "audio": "kite.wav",
+            "emoji": "🪁"
+        },
+        {
+            "text": "LION",
+            "audio": "lion.wav",
+            "emoji": "🦁"
+        },
+        {
+            "text": "NET",
+            "audio": "net.wav",
+            "emoji": "🕸️"
+        },
+        {
+            "text": "OCTOPUS",
+            "audio": "octopus.wav",
+            "emoji": "🐙"
+        },
+        {
+            "text": "PIG",
+            "audio": "pig.wav",
+            "emoji": "🐷"
+        },
+        {
+            "text": "QUEEN",
+            "audio": "queen.wav",
+            "emoji": "👸"
+        },
+        {
+            "text": "RABBIT",
+            "audio": "rabbit.wav",
+            "emoji": "🐰"
+        },
+        {
+            "text": "SUN",
+            "audio": "sun.wav",
+            "emoji": "☀️"
+        },
+        {
+            "text": "TIGER",
+            "audio": "tiger.wav",
+            "emoji": "🐯"
+        },
+        {
+            "text": "UMBRELLA",
+            "audio": "umbrella.wav",
+            "emoji": "☂️"
+        },
+        {
+            "text": "VAN",
+            "audio": "van.wav",
+            "emoji": "🚐"
+        },
+        {
+            "text": "WHALE",
+            "audio": "whale.wav",
+            "emoji": "🐋"
+        },
+        {
+            "text": "X-RAY",
+            "audio": "x_ray.wav",
+            "emoji": "🩻"
+        },
+        {
+            "text": "YO-YO",
+            "audio": "yo_yo.wav",
+            "emoji": "🪀"
+        },
+        {
+            "text": "ZEBRA",
+            "audio": "zebra.wav",
+            "emoji": "🦓"
+        }
+    ]
+}

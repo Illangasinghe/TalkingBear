@@ -1,0 +1,22 @@
+version: '3'
+
+tasks:
+  screenshot:
+    desc: Take device screenshot
+    cmds:
+      - cmd: >-
+          powershell -NoProfile -Command "
+            if (!(Test-Path 'debug')) { New-Item -ItemType Directory -Path 'debug' | Out-Null }
+            Set-Variable -Name p -Value ([IO.Path]::Combine('debug', ('screenshot_{0}.png' -f (Get-Date -Format 'yyyyMMdd_HHmmss'))))
+            cmd.exe /c \"adb exec-out screencap -p > \"\"debug\\__tmp_screencap.png\"\" \"
+            [IO.File]::Move('debug\\__tmp_screencap.png', (Get-Variable p -ValueOnly))
+            Write-Host ('Screenshot saved: {0}' -f (Get-Variable p -ValueOnly)) -ForegroundColor Green
+          "
+        platforms: [windows]
+
+      - cmd: |
+          mkdir -p debug
+          timestamp=$(date +"%Y%m%d_%H%M%S")
+          adb exec-out screencap -p > "debug/screenshot_$timestamp.png"
+          echo "Screenshot saved: debug/screenshot_$timestamp.png"
+        platforms: [linux, darwin]
