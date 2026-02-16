@@ -33,7 +33,7 @@
                 "BED",
                 "HILL",
                 "SOFA",
-                "POOL"
+                "SWIMMING POOL"
             ]
         },
         {
@@ -50,7 +50,7 @@
             "words": [
                 "BED",
                 "SOFA",
-                "POOL",
+                "SWIMMING POOL",
                 "HILL"
             ]
         },
@@ -85,9 +85,9 @@
                 "BALL",
                 "BLOCKS",
                 "BOOK",
-                "CRACKER",
+                "BISCUIT",
                 "HUG",
-                "POTTY",
+                "TOILET",
                 "OUTSIDE"
             ]
         },
@@ -165,7 +165,7 @@
                 "CAKE",
                 "CUP",
                 "COW",
-                "CANDY",
+                "SWEETS",
                 "DINOSAUR",
                 "DUCK",
                 "DOLL",
@@ -196,7 +196,7 @@
                 "IRON",
                 "ISLAND",
                 "INK",
-                "JEEP",
+                "JELLY",
                 "JELLYFISH",
                 "JAR",
                 "JACKET",
@@ -249,7 +249,7 @@
                 "TREE",
                 "TRAIN",
                 "TABLE",
-                "TRUCK",
+                "LORRY",
                 "TOY",
                 "UNICORN",
                 "UNDER",
@@ -267,20 +267,219 @@
                 "WINDOW",
                 "WHEEL",
                 "XYLOPHONE",
-                "XYGEN",
-                "XEROX",
-                "XYLYL",
-                "XRAY",
                 "YAK",
                 "YELLOW",
                 "YARN",
-                "YOGURT",
+                "YOGHURT",
                 "YEAR",
                 "ZIPPER",
                 "ZIGZAG",
                 "ZERO",
                 "ZOO",
-                "ZONE"
+                "ZONE",
+                "BOX",
+                "FOX",
+                "TAXI",
+                "SIX",
+                "MIX"
+            ]
+        },
+        {
+            "id": "people",
+            "words": [
+                "MUM",
+                "DAD",
+                "BABY",
+                "FRIEND",
+                "TEACHER",
+                "CHILD",
+                "BOY",
+                "GIRL",
+                "FAMILY",
+                "GRAN",
+                "GRANDAD"
+            ]
+        },
+        {
+            "id": "school",
+            "words": [
+                "SCHOOL",
+                "CLASS",
+                "PLAYGROUND",
+                "BOOKBAG",
+                "PENCIL",
+                "RUBBER",
+                "RULER",
+                "GLUE",
+                "SCISSORS",
+                "LUNCHBOX",
+                "DINNER",
+                "SNACK"
+            ]
+        },
+        {
+            "id": "home",
+            "words": [
+                "HOME",
+                "ROOM",
+                "KITCHEN",
+                "BATHROOM",
+                "GARDEN",
+                "DOOR",
+                "WINDOW",
+                "LIGHT",
+                "TABLE",
+                "CHAIR",
+                "STAIRS"
+            ]
+        },
+        {
+            "id": "body",
+            "words": [
+                "HEAD",
+                "HAIR",
+                "EYES",
+                "FACE",
+                "HANDS",
+                "FINGERS",
+                "FEET",
+                "TUMMY",
+                "TOOTH",
+                "NOSE",
+                "COLD",
+                "ILL",
+                "MEDICINE",
+                "PLASTER"
+            ]
+        },
+        {
+            "id": "clothes",
+            "words": [
+                "SHOES",
+                "SOCKS",
+                "COAT",
+                "HAT",
+                "JUMPER",
+                "T-SHIRT",
+                "TROUSERS",
+                "DRESS",
+                "PYJAMAS"
+            ]
+        },
+        {
+            "id": "food",
+            "words": [
+                "MILK",
+                "JUICE",
+                "TEA",
+                "SANDWICH",
+                "BREAD",
+                "BUTTER",
+                "CHEESE",
+                "PASTA",
+                "RICE",
+                "CHICKEN",
+                "CARROT",
+                "PEAS",
+                "BANANA",
+                "BISCUIT"
+            ]
+        },
+        {
+            "id": "transport_places",
+            "words": [
+                "PARK",
+                "SHOP",
+                "SUPERMARKET",
+                "LIBRARY",
+                "DOCTOR",
+                "DENTIST",
+                "BUS STOP",
+                "STATION",
+                "ROAD",
+                "PAVEMENT",
+                "CROSSING"
+            ]
+        },
+        {
+            "id": "nature",
+            "words": [
+                "CLOUD",
+                "SKY",
+                "WINDY",
+                "SNOW",
+                "PUDDLE",
+                "LEAVES",
+                "FLOWER",
+                "GRASS",
+                "MUD"
+            ]
+        },
+        {
+            "id": "toys",
+            "words": [
+                "TEDDY",
+                "LEGO",
+                "PUZZLE",
+                "COLOURING",
+                "PAINT",
+                "BIKE",
+                "SCOOTER",
+                "SWING",
+                "SLIDE",
+                "FOOTBALL"
+            ]
+        },
+        {
+            "id": "actions",
+            "words": [
+                "GO",
+                "STOP",
+                "COME",
+                "LOOK",
+                "LISTEN",
+                "HELP",
+                "WAIT",
+                "SHARE",
+                "PLEASE",
+                "THANK YOU",
+                "SORRY"
+            ]
+        },
+        {
+            "id": "describing",
+            "words": [
+                "BIG",
+                "SMALL",
+                "LITTLE",
+                "FAST",
+                "SLOW",
+                "WET",
+                "DRY",
+                "NICE",
+                "FUNNY",
+                "LOUD",
+                "QUIET",
+                "NEW",
+                "OLD"
+            ]
+        },
+        {
+            "id": "time",
+            "words": [
+                "TODAY",
+                "TOMORROW",
+                "YESTERDAY",
+                "MORNING",
+                "NIGHT",
+                "NOW",
+                "LATER",
+                "ONE",
+                "TWO",
+                "THREE",
+                "FOUR",
+                "FIVE",
+                "TEN"
             ]
         }
     ]

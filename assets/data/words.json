@@ -101,8 +101,8 @@
             "emoji": "🛋️"
         },
         {
-            "text": "POOL",
-            "audio": "pool.wav",
+            "text": "SWIMMING POOL",
+            "audio": "swimming_pool.wav",
             "emoji": "🏊"
         },
         {
@@ -231,9 +231,9 @@
             "emoji": "📚"
         },
         {
-            "text": "CRACKER",
-            "audio": "cracker.wav",
-            "emoji": "🥨"
+            "text": "BISCUIT",
+            "audio": "biscuit.wav",
+            "emoji": "🍪"
         },
         {
             "text": "HUG",
@@ -241,8 +241,8 @@
             "emoji": "🫂"
         },
         {
-            "text": "POTTY",
-            "audio": "potty.wav",
+            "text": "TOILET",
+            "audio": "toilet.wav",
             "emoji": "🚽"
         },
         {
@@ -545,8 +545,8 @@
             "emoji": "🐄"
         },
         {
-            "text": "CANDY",
-            "audio": "candy.wav",
+            "text": "SWEETS",
+            "audio": "sweets.wav",
             "emoji": "🍬"
         },
         {
@@ -685,9 +685,9 @@
             "emoji": "🖋️"
         },
         {
-            "text": "JEEP",
-            "audio": "jeep.wav",
-            "emoji": "🚙"
+            "text": "JELLY",
+            "audio": "jelly.wav",
+            "emoji": "🫙"
         },
         {
             "text": "JELLYFISH",
@@ -945,9 +945,9 @@
             "emoji": "🪑"
         },
         {
-            "text": "TRUCK",
-            "audio": "truck.wav",
-            "emoji": "🚚"
+            "text": "LORRY",
+            "audio": "lorry.wav",
+            "emoji": "🚛"
         },
         {
             "text": "TOY",
@@ -1030,23 +1030,8 @@
             "emoji": "🎹"
         },
         {
-            "text": "XYGEN",
-            "audio": "xygen.wav",
-            "emoji": "🧪"
-        },
-        {
-            "text": "XEROX",
-            "audio": "xerox.wav",
-            "emoji": "📠"
-        },
-        {
-            "text": "XYLYL",
-            "audio": "xylyl.wav",
-            "emoji": "🧪"
-        },
-        {
-            "text": "XRAY",
-            "audio": "xray.wav",
+            "text": "X-RAY",
+            "audio": "x_ray.wav",
             "emoji": "🩻"
         },
         {
@@ -1065,8 +1050,8 @@
             "emoji": "🧶"
         },
         {
-            "text": "YOGURT",
-            "audio": "yogurt.wav",
+            "text": "YOGHURT",
+            "audio": "yoghurt.wav",
             "emoji": "🍦"
         },
         {
@@ -1098,6 +1083,694 @@
             "text": "ZONE",
             "audio": "zone.wav",
             "emoji": "📍"
+        },
+        {
+            "text": "BOX",
+            "audio": "box.wav",
+            "emoji": "📦"
+        },
+        {
+            "text": "FOX",
+            "audio": "fox.wav",
+            "emoji": "🦊"
+        },
+        {
+            "text": "TAXI",
+            "audio": "taxi.wav",
+            "emoji": "🚕"
+        },
+        {
+            "text": "SIX",
+            "audio": "six.wav",
+            "emoji": "6️⃣"
+        },
+        {
+            "text": "MIX",
+            "audio": "mix.wav",
+            "emoji": "🥣"
+        },
+        {
+            "text": "MUM",
+            "audio": "mum.wav",
+            "emoji": "👩"
+        },
+        {
+            "text": "DAD",
+            "audio": "dad.wav",
+            "emoji": "👨"
+        },
+        {
+            "text": "BABY",
+            "audio": "baby.wav",
+            "emoji": "👶"
+        },
+        {
+            "text": "FRIEND",
+            "audio": "friend.wav",
+            "emoji": "👫"
+        },
+        {
+            "text": "TEACHER",
+            "audio": "teacher.wav",
+            "emoji": "👩‍🏫"
+        },
+        {
+            "text": "CHILD",
+            "audio": "child.wav",
+            "emoji": "🧒"
+        },
+        {
+            "text": "BOY",
+            "audio": "boy.wav",
+            "emoji": "👦"
+        },
+        {
+            "text": "GIRL",
+            "audio": "girl.wav",
+            "emoji": "👧"
+        },
+        {
+            "text": "FAMILY",
+            "audio": "family.wav",
+            "emoji": "👨‍👩‍👧‍👦"
+        },
+        {
+            "text": "GRAN",
+            "audio": "gran.wav",
+            "emoji": "👵"
+        },
+        {
+            "text": "GRANDAD",
+            "audio": "grandad.wav",
+            "emoji": "👴"
+        },
+        {
+            "text": "SCHOOL",
+            "audio": "school.wav",
+            "emoji": "🏫"
+        },
+        {
+            "text": "CLASS",
+            "audio": "class.wav",
+            "emoji": "🏫"
+        },
+        {
+            "text": "PLAYGROUND",
+            "audio": "playground.wav",
+            "emoji": "🛝"
+        },
+        {
+            "text": "BOOKBAG",
+            "audio": "bookbag.wav",
+            "emoji": "🎒"
+        },
+        {
+            "text": "RUBBER",
+            "audio": "rubber.wav",
+            "emoji": "🧼"
+        },
+        {
+            "text": "RULER",
+            "audio": "ruler.wav",
+            "emoji": "📏"
+        },
+        {
+            "text": "GLUE",
+            "audio": "glue.wav",
+            "emoji": "🧪"
+        },
+        {
+            "text": "SCISSORS",
+            "audio": "scissors.wav",
+            "emoji": "✂️"
+        },
+        {
+            "text": "LUNCHBOX",
+            "audio": "lunchbox.wav",
+            "emoji": "🍱"
+        },
+        {
+            "text": "DINNER",
+            "audio": "dinner.wav",
+            "emoji": "🍽️"
+        },
+        {
+            "text": "SNACK",
+            "audio": "snack.wav",
+            "emoji": "🍿"
+        },
+        {
+            "text": "HOME",
+            "audio": "home.wav",
+            "emoji": "🏠"
+        },
+        {
+            "text": "ROOM",
+            "audio": "room.wav",
+            "emoji": "🏠"
+        },
+        {
+            "text": "BATHROOM",
+            "audio": "bathroom.wav",
+            "emoji": "🛀"
+        },
+        {
+            "text": "GARDEN",
+            "audio": "garden.wav",
+            "emoji": "🪴"
+        },
+        {
+            "text": "DOOR",
+            "audio": "door.wav",
+            "emoji": "🚪"
+        },
+        {
+            "text": "LIGHT",
+            "audio": "light.wav",
+            "emoji": "💡"
+        },
+        {
+            "text": "CHAIR",
+            "audio": "chair.wav",
+            "emoji": "🪑"
+        },
+        {
+            "text": "STAIRS",
+            "audio": "stairs.wav",
+            "emoji": "🪜"
+        },
+        {
+            "text": "HEAD",
+            "audio": "head.wav",
+            "emoji": "🙆"
+        },
+        {
+            "text": "HAIR",
+            "audio": "hair.wav",
+            "emoji": "💇"
+        },
+        {
+            "text": "EYES",
+            "audio": "eyes.wav",
+            "emoji": "👁️"
+        },
+        {
+            "text": "FACE",
+            "audio": "face.wav",
+            "emoji": "👤"
+        },
+        {
+            "text": "HANDS",
+            "audio": "hands.wav",
+            "emoji": "🙌"
+        },
+        {
+            "text": "FINGERS",
+            "audio": "fingers.wav",
+            "emoji": "🖐️"
+        },
+        {
+            "text": "FEET",
+            "audio": "feet.wav",
+            "emoji": "🦶"
+        },
+        {
+            "text": "TUMMY",
+            "audio": "tummy.wav",
+            "emoji": "🤰"
+        },
+        {
+            "text": "TOOTH",
+            "audio": "tooth.wav",
+            "emoji": "🦷"
+        },
+        {
+            "text": "COLD",
+            "audio": "cold.wav",
+            "emoji": "🤒"
+        },
+        {
+            "text": "ILL",
+            "audio": "ill.wav",
+            "emoji": "🤢"
+        },
+        {
+            "text": "MEDICINE",
+            "audio": "medicine.wav",
+            "emoji": "💊"
+        },
+        {
+            "text": "PLASTER",
+            "audio": "plaster.wav",
+            "emoji": "🩹"
+        },
+        {
+            "text": "SHOES",
+            "audio": "shoes.wav",
+            "emoji": "👟"
+        },
+        {
+            "text": "SOCKS",
+            "audio": "socks.wav",
+            "emoji": "🧦"
+        },
+        {
+            "text": "COAT",
+            "audio": "coat.wav",
+            "emoji": "🧥"
+        },
+        {
+            "text": "JUMPER",
+            "audio": "jumper.wav",
+            "emoji": "🧶"
+        },
+        {
+            "text": "T-SHIRT",
+            "audio": "t_shirt.wav",
+            "emoji": "👕"
+        },
+        {
+            "text": "TROUSERS",
+            "audio": "trousers.wav",
+            "emoji": "👖"
+        },
+        {
+            "text": "DRESS",
+            "audio": "dress.wav",
+            "emoji": "👗"
+        },
+        {
+            "text": "PYJAMAS",
+            "audio": "pyjamas.wav",
+            "emoji": "🛌"
+        },
+        {
+            "text": "MILK",
+            "audio": "milk.wav",
+            "emoji": "🥛"
+        },
+        {
+            "text": "JUICE",
+            "audio": "juice.wav",
+            "emoji": "🍹"
+        },
+        {
+            "text": "TEA",
+            "audio": "tea.wav",
+            "emoji": "☕"
+        },
+        {
+            "text": "SANDWICH",
+            "audio": "sandwich.wav",
+            "emoji": "🥪"
+        },
+        {
+            "text": "BREAD",
+            "audio": "bread.wav",
+            "emoji": "🍞"
+        },
+        {
+            "text": "BUTTER",
+            "audio": "butter.wav",
+            "emoji": "🧈"
+        },
+        {
+            "text": "CHEESE",
+            "audio": "cheese.wav",
+            "emoji": "🧀"
+        },
+        {
+            "text": "PASTA",
+            "audio": "pasta.wav",
+            "emoji": "🍝"
+        },
+        {
+            "text": "RICE",
+            "audio": "rice.wav",
+            "emoji": "🍚"
+        },
+        {
+            "text": "CHICKEN",
+            "audio": "chicken.wav",
+            "emoji": "🍗"
+        },
+        {
+            "text": "CARROT",
+            "audio": "carrot.wav",
+            "emoji": "🥕"
+        },
+        {
+            "text": "PEAS",
+            "audio": "peas.wav",
+            "emoji": "🫛"
+        },
+        {
+            "text": "PARK",
+            "audio": "park.wav",
+            "emoji": "🌳"
+        },
+        {
+            "text": "SHOP",
+            "audio": "shop.wav",
+            "emoji": "🛍️"
+        },
+        {
+            "text": "SUPERMARKET",
+            "audio": "supermarket.wav",
+            "emoji": "🛒"
+        },
+        {
+            "text": "LIBRARY",
+            "audio": "library.wav",
+            "emoji": "📚"
+        },
+        {
+            "text": "DOCTOR",
+            "audio": "doctor.wav",
+            "emoji": "🩺"
+        },
+        {
+            "text": "DENTIST",
+            "audio": "dentist.wav",
+            "emoji": "🦷"
+        },
+        {
+            "text": "BUS STOP",
+            "audio": "bus_stop.wav",
+            "emoji": "🚏"
+        },
+        {
+            "text": "STATION",
+            "audio": "station.wav",
+            "emoji": "🚉"
+        },
+        {
+            "text": "PAVEMENT",
+            "audio": "pavement.wav",
+            "emoji": "🚶"
+        },
+        {
+            "text": "CROSSING",
+            "audio": "crossing.wav",
+            "emoji": "🚶"
+        },
+        {
+            "text": "CLOUD",
+            "audio": "cloud.wav",
+            "emoji": "☁️"
+        },
+        {
+            "text": "SKY",
+            "audio": "sky.wav",
+            "emoji": "🌌"
+        },
+        {
+            "text": "WINDY",
+            "audio": "windy.wav",
+            "emoji": "🌬️"
+        },
+        {
+            "text": "SNOW",
+            "audio": "snow.wav",
+            "emoji": "❄️"
+        },
+        {
+            "text": "PUDDLE",
+            "audio": "puddle.wav",
+            "emoji": "💧"
+        },
+        {
+            "text": "LEAVES",
+            "audio": "leaves.wav",
+            "emoji": "🍃"
+        },
+        {
+            "text": "GRASS",
+            "audio": "grass.wav",
+            "emoji": "🌱"
+        },
+        {
+            "text": "MUD",
+            "audio": "mud.wav",
+            "emoji": "💩"
+        },
+        {
+            "text": "TEDDY",
+            "audio": "teddy.wav",
+            "emoji": "🧸"
+        },
+        {
+            "text": "LEGO",
+            "audio": "lego.wav",
+            "emoji": "🧱"
+        },
+        {
+            "text": "PUZZLE",
+            "audio": "puzzle.wav",
+            "emoji": "🧩"
+        },
+        {
+            "text": "COLOURING",
+            "audio": "colouring.wav",
+            "emoji": "🖍️"
+        },
+        {
+            "text": "PAINT",
+            "audio": "paint.wav",
+            "emoji": "🎨"
+        },
+        {
+            "text": "BIKE",
+            "audio": "bike.wav",
+            "emoji": "🚲"
+        },
+        {
+            "text": "SCOOTER",
+            "audio": "scooter.wav",
+            "emoji": "🛴"
+        },
+        {
+            "text": "SWING",
+            "audio": "swing.wav",
+            "emoji": "🛝"
+        },
+        {
+            "text": "SLIDE",
+            "audio": "slide.wav",
+            "emoji": "🛝"
+        },
+        {
+            "text": "FOOTBALL",
+            "audio": "football.wav",
+            "emoji": "⚽"
+        },
+        {
+            "text": "GO",
+            "audio": "go.wav",
+            "emoji": "🏃"
+        },
+        {
+            "text": "STOP",
+            "audio": "stop.wav",
+            "emoji": "🛑"
+        },
+        {
+            "text": "COME",
+            "audio": "come.wav",
+            "emoji": "👋"
+        },
+        {
+            "text": "LOOK",
+            "audio": "look.wav",
+            "emoji": "👀"
+        },
+        {
+            "text": "LISTEN",
+            "audio": "listen.wav",
+            "emoji": "👂"
+        },
+        {
+            "text": "HELP",
+            "audio": "help.wav",
+            "emoji": "🆘"
+        },
+        {
+            "text": "WAIT",
+            "audio": "wait.wav",
+            "emoji": "⏳"
+        },
+        {
+            "text": "SHARE",
+            "audio": "share.wav",
+            "emoji": "🤝"
+        },
+        {
+            "text": "PLEASE",
+            "audio": "please.wav",
+            "emoji": "🙏"
+        },
+        {
+            "text": "THANK YOU",
+            "audio": "thank_you.wav",
+            "emoji": "🙌"
+        },
+        {
+            "text": "SORRY",
+            "audio": "sorry.wav",
+            "emoji": "😔"
+        },
+        {
+            "text": "BIG",
+            "audio": "big.wav",
+            "emoji": "🐘"
+        },
+        {
+            "text": "SMALL",
+            "audio": "small.wav",
+            "emoji": "🐭"
+        },
+        {
+            "text": "LITTLE",
+            "audio": "little.wav",
+            "emoji": "🐜"
+        },
+        {
+            "text": "FAST",
+            "audio": "fast.wav",
+            "emoji": "🏎️"
+        },
+        {
+            "text": "SLOW",
+            "audio": "slow.wav",
+            "emoji": "🐌"
+        },
+        {
+            "text": "WET",
+            "audio": "wet.wav",
+            "emoji": "🌧️"
+        },
+        {
+            "text": "DRY",
+            "audio": "dry.wav",
+            "emoji": "☀️"
+        },
+        {
+            "text": "NICE",
+            "audio": "nice.wav",
+            "emoji": "😊"
+        },
+        {
+            "text": "FUNNY",
+            "audio": "funny.wav",
+            "emoji": "😂"
+        },
+        {
+            "text": "LOUD",
+            "audio": "loud.wav",
+            "emoji": "📢"
+        },
+        {
+            "text": "QUIET",
+            "audio": "quiet.wav",
+            "emoji": "🤫"
+        },
+        {
+            "text": "NEW",
+            "audio": "new.wav",
+            "emoji": "✨"
+        },
+        {
+            "text": "OLD",
+            "audio": "old.wav",
+            "emoji": "👴"
+        },
+        {
+            "text": "TODAY",
+            "audio": "today.wav",
+            "emoji": "📅"
+        },
+        {
+            "text": "TOMORROW",
+            "audio": "tomorrow.wav",
+            "emoji": "⏭️"
+        },
+        {
+            "text": "YESTERDAY",
+            "audio": "yesterday.wav",
+            "emoji": "⏮️"
+        },
+        {
+            "text": "MORNING",
+            "audio": "morning.wav",
+            "emoji": "🌅"
+        },
+        {
+            "text": "NOW",
+            "audio": "now.wav",
+            "emoji": "⏱️"
+        },
+        {
+            "text": "LATER",
+            "audio": "later.wav",
+            "emoji": "⌛"
+        },
+        {
+            "text": "ONE",
+            "audio": "one.wav",
+            "emoji": "1️⃣"
+        },
+        {
+            "text": "TWO",
+            "audio": "two.wav",
+            "emoji": "2️⃣"
+        },
+        {
+            "text": "THREE",
+            "audio": "three.wav",
+            "emoji": "3️⃣"
+        },
+        {
+            "text": "FOUR",
+            "audio": "four.wav",
+            "emoji": "4️⃣"
+        },
+        {
+            "text": "FIVE",
+            "audio": "five.wav",
+            "emoji": "5️⃣"
+        },
+        {
+            "text": "TEN",
+            "audio": "ten.wav",
+            "emoji": "🔟"
+        },
+        {
+            "text": "TODAY IS",
+            "audio": "today_is.wav"
+        },
+        {
+            "text": "I AM",
+            "audio": "i_am.wav"
+        },
+        {
+            "text": "TO",
+            "audio": "to.wav"
+        },
+        {
+            "text": "I NEED MY",
+            "audio": "i_need_my.wav"
+        },
+        {
+            "text": "FOR",
+            "audio": "for.wav"
+        },
+        {
+            "text": "MY",
+            "audio": "my.wav"
+        },
+        {
+            "text": "FEELS",
+            "audio": "feels.wav"
         }
     ]
 }

@@ -1,200 +1,316 @@
 {
-  "scripts": [
-    {
-      "id": "animal_questions",
-      "title": "Animal Questions",
-      "tiles": [
+    "scripts": [
         {
-          "id": "t1",
-          "text": "WHAT DOES THE",
-          "type": "fixed",
-          "audio": "what_does_the.wav"
+            "id": "animal_questions",
+            "title": "Animal Questions",
+            "tiles": [
+                {
+                    "id": "t1",
+                    "text": "WHAT DOES THE",
+                    "type": "fixed",
+                    "audio": "what_does_the.wav"
+                },
+                {
+                    "id": "t2",
+                    "text": "FROG",
+                    "type": "swappable",
+                    "swap_group": "animals",
+                    "audio": "frog.wav",
+                    "emoji": "🐸"
+                },
+                {
+                    "id": "t3",
+                    "text": "SAY?",
+                    "type": "fixed",
+                    "audio": "say_question.wav"
+                },
+                {
+                    "id": "t4",
+                    "text": "RIBBIT",
+                    "type": "swappable",
+                    "swap_group": "sounds",
+                    "audio": "ribbit.wav",
+                    "emoji": "💬"
+                }
+            ]
         },
         {
-          "id": "t2",
-          "text": "FROG",
-          "type": "swappable",
-          "swap_group": "animals",
-          "audio": "frog.wav",
-          "emoji": "🐸"
+            "id": "climbing_action",
+            "title": "Hickory Dickory",
+            "tiles": [
+                {
+                    "id": "t1",
+                    "text": "THE",
+                    "type": "fixed",
+                    "audio": "the.wav"
+                },
+                {
+                    "id": "t2",
+                    "text": "JAGUAR",
+                    "type": "swappable",
+                    "swap_group": "animals",
+                    "audio": "jaguar.wav",
+                    "emoji": "🐆"
+                },
+                {
+                    "id": "t3",
+                    "text": "CLIMBED UP",
+                    "type": "fixed",
+                    "audio": "climbed_up.wav"
+                },
+                {
+                    "id": "t4",
+                    "text": "THE",
+                    "type": "fixed",
+                    "audio": "the_lower.wav"
+                },
+                {
+                    "id": "t5",
+                    "text": "CLOCK",
+                    "type": "swappable",
+                    "swap_group": "objects",
+                    "audio": "clock.wav",
+                    "emoji": "🕰️"
+                }
+            ]
         },
         {
-          "id": "t3",
-          "text": "SAY?",
-          "type": "fixed",
-          "audio": "say_question.wav"
+            "id": "counting_jump",
+            "title": "Five Little...",
+            "tiles": [
+                {
+                    "id": "t1",
+                    "text": "FIVE LITTLE",
+                    "type": "fixed",
+                    "audio": "five_little.wav"
+                },
+                {
+                    "id": "t2",
+                    "text": "GHOSTS",
+                    "type": "swappable",
+                    "swap_group": "nouns_plural",
+                    "audio": "ghosts.wav",
+                    "emoji": "👻"
+                },
+                {
+                    "id": "t3",
+                    "text": "JUMPING ON",
+                    "type": "fixed",
+                    "audio": "jumping_on.wav"
+                },
+                {
+                    "id": "t4",
+                    "text": "THE",
+                    "type": "fixed",
+                    "audio": "the_lower.wav"
+                },
+                {
+                    "id": "t5",
+                    "text": "BED",
+                    "type": "swappable",
+                    "swap_group": "locations",
+                    "audio": "bed.wav",
+                    "emoji": "🛏️"
+                }
+            ]
         },
         {
-          "id": "t4",
-          "text": "RIBBIT",
-          "type": "swappable",
-          "swap_group": "sounds",
-          "audio": "ribbit.wav",
-          "emoji": "💬"
+            "id": "feelings_script",
+            "title": "My Feelings",
+            "tiles": [
+                {
+                    "id": "t1",
+                    "text": "I FEEL",
+                    "type": "fixed",
+                    "audio": "i_feel.wav"
+                },
+                {
+                    "id": "t2",
+                    "text": "HAPPY",
+                    "type": "swappable",
+                    "swap_group": "emotions",
+                    "audio": "happy.wav",
+                    "emoji": "😊"
+                },
+                {
+                    "id": "t3",
+                    "text": "BECAUSE",
+                    "type": "fixed",
+                    "audio": "because.wav"
+                },
+                {
+                    "id": "t4",
+                    "text": "PLAYING",
+                    "type": "swappable",
+                    "swap_group": "reasons",
+                    "audio": "playing.wav",
+                    "emoji": "🧸"
+                }
+            ]
+        },
+        {
+            "id": "needs_script",
+            "title": "I Want...",
+            "tiles": [
+                {
+                    "id": "t1",
+                    "text": "I WANT",
+                    "type": "fixed",
+                    "audio": "i_want.wav"
+                },
+                {
+                    "id": "t2",
+                    "text": "APPLE",
+                    "type": "swappable",
+                    "swap_group": "needs_objects",
+                    "audio": "apple.wav",
+                    "emoji": "🍎"
+                }
+            ]
+        },
+        {
+            "id": "abc_script",
+            "title": "A B C...",
+            "tiles": [
+                {
+                    "id": "t1",
+                    "text": "A",
+                    "type": "swappable",
+                    "swap_group": "alphabet",
+                    "audio": "a.wav",
+                    "emoji": "🅰️"
+                },
+                {
+                    "id": "t2",
+                    "text": "IS FOR",
+                    "type": "fixed",
+                    "audio": "is_for.wav"
+                },
+                {
+                    "id": "t3",
+                    "text": "APPLE",
+                    "type": "swappable",
+                    "swap_group": "alphabet_objects",
+                    "audio": "apple.wav",
+                    "emoji": "🍎"
+                }
+            ]
+        },
+        {
+            "id": "daily_routine_script",
+            "title": "Daily Routine",
+            "tiles": [
+                {
+                    "id": "dr1",
+                    "text": "TODAY IS",
+                    "type": "fixed",
+                    "audio": "today_is.wav"
+                },
+                {
+                    "id": "dr2",
+                    "text": "MORNING",
+                    "type": "swappable",
+                    "swap_group": "time",
+                    "audio": "morning.wav",
+                    "emoji": "🌅"
+                },
+                {
+                    "id": "dr3",
+                    "text": "I AM",
+                    "type": "fixed",
+                    "audio": "i_am.wav"
+                },
+                {
+                    "id": "dr4",
+                    "text": "GO",
+                    "type": "swappable",
+                    "swap_group": "actions",
+                    "audio": "go.wav",
+                    "emoji": "🏃"
+                },
+                {
+                    "id": "dr5",
+                    "text": "TO",
+                    "type": "fixed",
+                    "audio": "to.wav"
+                },
+                {
+                    "id": "dr6",
+                    "text": "SCHOOL",
+                    "type": "swappable",
+                    "swap_group": "school",
+                    "audio": "school.wav",
+                    "emoji": "🏫"
+                }
+            ]
+        },
+        {
+            "id": "my_clothes_script",
+            "title": "My Clothes",
+            "tiles": [
+                {
+                    "id": "c1",
+                    "text": "I NEED MY",
+                    "type": "fixed",
+                    "audio": "i_need_my.wav"
+                },
+                {
+                    "id": "c2",
+                    "text": "SHOES",
+                    "type": "swappable",
+                    "swap_group": "clothes",
+                    "audio": "shoes.wav",
+                    "emoji": "👟"
+                },
+                {
+                    "id": "c3",
+                    "text": "FOR",
+                    "type": "fixed",
+                    "audio": "for.wav"
+                },
+                {
+                    "id": "c4",
+                    "text": "OUTSIDE",
+                    "type": "swappable",
+                    "swap_group": "transport_places",
+                    "audio": "outside.wav",
+                    "emoji": "🌳"
+                }
+            ]
+        },
+        {
+            "id": "my_body_script",
+            "title": "My Body",
+            "tiles": [
+                {
+                    "id": "b1",
+                    "text": "MY",
+                    "type": "fixed",
+                    "audio": "my.wav"
+                },
+                {
+                    "id": "b2",
+                    "text": "HEAD",
+                    "type": "swappable",
+                    "swap_group": "body",
+                    "audio": "head.wav",
+                    "emoji": "🙆"
+                },
+                {
+                    "id": "b3",
+                    "text": "FEELS",
+                    "type": "fixed",
+                    "audio": "feels.wav"
+                },
+                {
+                    "id": "b4",
+                    "text": "COLD",
+                    "type": "swappable",
+                    "swap_group": "describing",
+                    "audio": "cold.wav",
+                    "emoji": "🤒"
+                }
+            ]
         }
-      ]
-    },
-    {
-      "id": "climbing_action",
-      "title": "Hickory Dickory",
-      "tiles": [
-        {
-          "id": "t1",
-          "text": "THE",
-          "type": "fixed",
-          "audio": "the.wav"
-        },
-        {
-          "id": "t2",
-          "text": "JAGUAR",
-          "type": "swappable",
-          "swap_group": "animals",
-          "audio": "jaguar.wav",
-          "emoji": "🐆"
-        },
-        {
-          "id": "t3",
-          "text": "CLIMBED UP",
-          "type": "fixed",
-          "audio": "climbed_up.wav"
-        },
-        {
-          "id": "t4",
-          "text": "THE",
-          "type": "fixed",
-          "audio": "the_lower.wav"
-        },
-        {
-          "id": "t5",
-          "text": "CLOCK",
-          "type": "swappable",
-          "swap_group": "objects",
-          "audio": "clock.wav",
-          "emoji": "🕰️"
-        }
-      ]
-    },
-    {
-      "id": "counting_jump",
-      "title": "Five Little...",
-      "tiles": [
-        {
-          "id": "t1",
-          "text": "FIVE LITTLE",
-          "type": "fixed",
-          "audio": "five_little.wav"
-        },
-        {
-          "id": "t2",
-          "text": "GHOSTS",
-          "type": "swappable",
-          "swap_group": "nouns_plural",
-          "audio": "ghosts.wav",
-          "emoji": "👻"
-        },
-        {
-          "id": "t3",
-          "text": "JUMPING ON",
-          "type": "fixed",
-          "audio": "jumping_on.wav"
-        },
-        {
-          "id": "t4",
-          "text": "THE",
-          "type": "fixed",
-          "audio": "the_lower.wav"
-        },
-        {
-          "id": "t5",
-          "text": "BED",
-          "type": "swappable",
-          "swap_group": "locations",
-          "audio": "bed.wav",
-          "emoji": "🛏️"
-        }
-      ]
-    },
-    {
-      "id": "feelings_script",
-      "title": "My Feelings",
-      "tiles": [
-        {
-          "id": "t1",
-          "text": "I FEEL",
-          "type": "fixed",
-          "audio": "i_feel.wav"
-        },
-        {
-          "id": "t2",
-          "text": "HAPPY",
-          "type": "swappable",
-          "swap_group": "emotions",
-          "audio": "happy.wav",
-          "emoji": "😊"
-        },
-        {
-          "id": "t3",
-          "text": "BECAUSE",
-          "type": "fixed",
-          "audio": "because.wav"
-        },
-        {
-          "id": "t4",
-          "text": "PLAYING",
-          "type": "swappable",
-          "swap_group": "reasons",
-          "audio": "playing.wav",
-          "emoji": "🧸"
-        }
-      ]
-    },
-    {
-      "id": "needs_script",
-      "title": "I Want...",
-      "tiles": [
-        {
-          "id": "t1",
-          "text": "I WANT",
-          "type": "fixed",
-          "audio": "i_want.wav"
-        },
-        {
-          "id": "t2",
-          "text": "APPLE",
-          "type": "swappable",
-          "swap_group": "needs_objects",
-          "audio": "apple.wav",
-          "emoji": "🍎"
-        }
-      ]
-    },
-    {
-      "id": "abc_script",
-      "title": "A B C...",
-      "tiles": [
-        {
-          "id": "t1",
-          "text": "A",
-          "type": "swappable",
-          "swap_group": "alphabet",
-          "audio": "a.wav",
-          "emoji": "🅰️"
-        },
-        {
-          "id": "t2",
-          "text": "IS FOR",
-          "type": "fixed",
-          "audio": "is_for.wav"
-        },
-        {
-          "id": "t3",
-          "text": "APPLE",
-          "type": "swappable",
-          "swap_group": "alphabet_objects",
-          "audio": "apple.wav",
-          "emoji": "🍎"
-        }
-      ]
-    }
-  ]
+    ]
 }
